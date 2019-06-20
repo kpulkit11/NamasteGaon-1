@@ -22,8 +22,7 @@ a{
 }
 iframe{
   margin: auto !important;
-  width: 110% !important;
-  height: 30vh !important;
+  width: 100% !important;
   position: relative;
   left: -5%;
 }
